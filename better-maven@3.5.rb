@@ -1,4 +1,4 @@
-class MavenAT35 < Formula
+class BetterMavenAT35 < Formula
   desc "Java-based project management"
   homepage "https://maven.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz"
