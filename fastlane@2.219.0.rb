@@ -1,4 +1,4 @@
-class Fastlane < Formula
+class FastlaneAT22190 < Formula
   desc "Easiest way to build and release mobile apps"
   homepage "https://fastlane.tools"
   url "https://github.com/fastlane/fastlane/archive/refs/tags/2.219.0.tar.gz"
